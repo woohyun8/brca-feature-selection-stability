@@ -1,0 +1,7 @@
+# raw/processed data are large; download from UCSC Xena (see README)
+data/
+# big intermediate files; regenerate with the scripts
+results/*.pkl
+__pycache__/
+.venv/
+.DS_Store
